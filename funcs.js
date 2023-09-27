@@ -1,0 +1,1 @@
+const addProductToCart = product => product;
