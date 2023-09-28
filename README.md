@@ -17,3 +17,15 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae atque corr
 ```javascript
 let test = () => true;
 ```
+
+## Test Orderd List
+
+1. item 1
+2. item 2
+3. item 3
+
+## Test Unorderd List
+
+- item 1
+- item 2
+- item 3
